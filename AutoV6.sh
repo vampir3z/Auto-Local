@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cur_dir=$(pwd)
 # Update package list
 apt update
 
