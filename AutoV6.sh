@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Update package list
 apt update
 
